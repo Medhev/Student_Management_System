@@ -1,3 +1,4 @@
-first add->
-second commit ->
-third push
+first clone ->
+second add ->
+third commit ->
+fourth push .
