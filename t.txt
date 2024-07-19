@@ -2,3 +2,5 @@ first clone ->
 second add ->
 third commit ->
 fourth push .
+optional:
+cd - Change Directory of the file 
